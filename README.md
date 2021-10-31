@@ -4,8 +4,9 @@ A classic pong game built with Python 🏓
 Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 ## Intro
-Control up/down fot the right paddle by simply using ↑↓ tabs, w & x keys for left paddle.<br />
-The speed of the ball will get faster slightly each time the paddle successfully catch the ball, latest score of both side will always display on the top of the screen.<br />
+Control up/down for the right paddle by simply using ↑ ↓ tabs, w x keys for left paddle.<br />
+The speed of the ball will get faster slightly each time the paddle successfully catch the ball, the score will increase once the opposite side miss a ball,
+latest score of both side will always display on the top of the screen.<br />
 If the ball cross over the right or left edge of the screen, it will automatically reset to the center.<br />
 Have fun!<br />
 
