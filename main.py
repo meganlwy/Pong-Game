@@ -34,9 +34,9 @@ while gameon:
         ball.bounce_y()
     if (
         ball.distance(r_paddle) < 50
-        and ball.xcor() > 320
+        and ball.xcor() > 330
         or ball.distance(l_paddle) < 50
-        and ball.xcor() < -320
+        and ball.xcor() < -330
     ):  # bounce when hit the paddles
         ball.bounce_x()
     if ball.xcor() > 380:  # left player +1
